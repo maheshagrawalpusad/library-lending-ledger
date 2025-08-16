@@ -25,3 +25,5 @@ Fetch real-time data from the blockchain to display the current status of all bo
 Contract Address
 To interact with this DApp, you must first deploy the smart contract to the Aptos Testnet. Replace the placeholder address in the frontend code with your actual deployed contract address.
 Your Contract Address: 0xa07d90171d5179d6074ee4e24f8e67a2e50d522695badffb783df17e7c4f98cb
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/036f1007-dc5b-4001-9abf-e21e54810fda" />
+
