@@ -1,0 +1,16 @@
+[package]
+name = "buildstation"
+version = "1.0.0"
+authors = []
+
+[addresses]
+library_ledger='0xc05313ca4efdb8357d461748e1c9d5fa7e0ba549084e845c03ce5c787558ccea'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
